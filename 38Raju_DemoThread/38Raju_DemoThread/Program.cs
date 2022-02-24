@@ -37,7 +37,14 @@ namespace _38Raju_DemoThread
         {
             for (int i = 1; i <= 10; i++)
                 Console.WriteLine("Test3; " + i);
-            Console.WriteLine("Test1 is exiting ");
+            Console.WriteLine("Test3 is exiting ");
+        }
+
+        static void Test4()
+        {
+            for (int i = 1; i <= 10; i++)
+                Console.WriteLine("Test4; " + i);
+            Console.WriteLine("Test4 is exiting ");
         }
         static void Main(string[] args)
         {
@@ -64,13 +71,22 @@ namespace _38Raju_DemoThread
             Thread t2 = new Thread(Test2);
             Thread t3 = new Thread(Test3);
             t1.Start();
-            t2.Start();
-            
+            t2.Start();            
             t3.Start();
             Console.WriteLine("Thread main is exiting ");
             Console.WriteLine("Current executing in three threads is end ");       
             
             Console.ReadLine();
+
+            // Part 3: 
+            ThreadStart obj = new ThreadStart(Test4);
+            // ThreadStart obj = Test4;
+            // Instantiation is a process of binding the method with a delegate
+
+            Thread t4 = new Thread(obj);
+            t4.Start();
+            Console.ReadLine();
+
         }
     }
 }
