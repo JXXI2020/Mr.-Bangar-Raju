@@ -54,6 +54,15 @@ namespace _38Raju_DemoThread
             Thread thread6 = new Thread(obj.DisplayLock);
             thread4.Start(); thread5.Start(); thread6.Start();
 
+            // with threads, with locks
+            Console.WriteLine("    ");
+            Console.WriteLine("with threads, with ptriority  ");
+                        
+            Thread thread7 = new Thread(obj.DisplayLock);
+            Thread thread8 = new Thread(obj.DisplayLock);
+            Thread thread9 = new Thread(obj.DisplayLock);
+            thread7.Priority= ThreadPriority.BelowNormal;
+
 
 
             Console.ReadLine();
