@@ -1,0 +1,11 @@
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\obj\Debug\AccessDemo2.csprojAssemblyReference.cache
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\obj\Debug\AccessDemo2.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\bin\Debug\AccessDemo2.exe.config
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\bin\Debug\AccessDemo2.exe
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\bin\Debug\AccessDemo2.pdb
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\bin\Debug\AccessDemo1.exe
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\bin\Debug\AccessDemo1.pdb
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\bin\Debug\AccessDemo1.exe.config
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\obj\Debug\AccessDemo2.csproj.CopyComplete
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\obj\Debug\AccessDemo2.exe
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo2\obj\Debug\AccessDemo2.pdb

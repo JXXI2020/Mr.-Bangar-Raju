@@ -1,0 +1,11 @@
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\bin\Debug\netcoreapp2.1\ConsoleApp02MrRaju.deps.json
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\bin\Debug\netcoreapp2.1\ConsoleApp02MrRaju.runtimeconfig.json
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\bin\Debug\netcoreapp2.1\ConsoleApp02MrRaju.runtimeconfig.dev.json
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\bin\Debug\netcoreapp2.1\ConsoleApp02MrRaju.dll
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\bin\Debug\netcoreapp2.1\ConsoleApp02MrRaju.pdb
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\obj\Debug\netcoreapp2.1\ConsoleApp02MrRaju.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\obj\Debug\netcoreapp2.1\ConsoleApp02MrRaju.AssemblyInfoInputs.cache
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\obj\Debug\netcoreapp2.1\ConsoleApp02MrRaju.AssemblyInfo.cs
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\obj\Debug\netcoreapp2.1\ConsoleApp02MrRaju.dll
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\obj\Debug\netcoreapp2.1\ConsoleApp02MrRaju.pdb
+C:\Users\JGGG\source\repos\ConsoleApp02MrRaju\ConsoleApp02MrRaju\obj\Debug\netcoreapp2.1\ConsoleApp02MrRaju.csprojAssemblyReference.cache

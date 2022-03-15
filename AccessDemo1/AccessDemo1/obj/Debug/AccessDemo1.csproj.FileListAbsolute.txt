@@ -1,0 +1,7 @@
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\bin\Debug\AccessDemo1.exe.config
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\bin\Debug\AccessDemo1.exe
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\bin\Debug\AccessDemo1.pdb
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\obj\Debug\AccessDemo1.csprojAssemblyReference.cache
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\obj\Debug\AccessDemo1.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\obj\Debug\AccessDemo1.exe
+C:\Users\JGGG\source\repos\AccessDemo1\AccessDemo1\obj\Debug\AccessDemo1.pdb

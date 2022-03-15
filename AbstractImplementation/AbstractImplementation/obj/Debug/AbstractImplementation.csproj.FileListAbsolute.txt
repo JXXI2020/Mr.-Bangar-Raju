@@ -1,0 +1,7 @@
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\bin\Debug\AbstractImplementation.exe.config
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\bin\Debug\AbstractImplementation.exe
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\bin\Debug\AbstractImplementation.pdb
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.csprojAssemblyReference.cache
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.exe
+C:\Users\JGGG\source\repos\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.pdb

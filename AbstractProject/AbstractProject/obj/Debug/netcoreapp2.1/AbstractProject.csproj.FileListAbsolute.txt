@@ -1,0 +1,11 @@
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\bin\Debug\netcoreapp2.1\AbstractProject.deps.json
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\bin\Debug\netcoreapp2.1\AbstractProject.runtimeconfig.json
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\bin\Debug\netcoreapp2.1\AbstractProject.runtimeconfig.dev.json
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\bin\Debug\netcoreapp2.1\AbstractProject.dll
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\bin\Debug\netcoreapp2.1\AbstractProject.pdb
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\obj\Debug\netcoreapp2.1\AbstractProject.csprojAssemblyReference.cache
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\obj\Debug\netcoreapp2.1\AbstractProject.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\obj\Debug\netcoreapp2.1\AbstractProject.AssemblyInfoInputs.cache
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\obj\Debug\netcoreapp2.1\AbstractProject.AssemblyInfo.cs
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\obj\Debug\netcoreapp2.1\AbstractProject.dll
+C:\Users\JGGG\source\repos\AbstractProject\AbstractProject\obj\Debug\netcoreapp2.1\AbstractProject.pdb

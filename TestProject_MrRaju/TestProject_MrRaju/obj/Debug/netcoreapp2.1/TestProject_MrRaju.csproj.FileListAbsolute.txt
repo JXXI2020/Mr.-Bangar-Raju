@@ -1,0 +1,11 @@
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\bin\Debug\netcoreapp2.1\TestProject_MrRaju.deps.json
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\bin\Debug\netcoreapp2.1\TestProject_MrRaju.runtimeconfig.json
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\bin\Debug\netcoreapp2.1\TestProject_MrRaju.runtimeconfig.dev.json
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\bin\Debug\netcoreapp2.1\TestProject_MrRaju.dll
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\bin\Debug\netcoreapp2.1\TestProject_MrRaju.pdb
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\obj\Debug\netcoreapp2.1\TestProject_MrRaju.csprojAssemblyReference.cache
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\obj\Debug\netcoreapp2.1\TestProject_MrRaju.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\obj\Debug\netcoreapp2.1\TestProject_MrRaju.AssemblyInfoInputs.cache
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\obj\Debug\netcoreapp2.1\TestProject_MrRaju.AssemblyInfo.cs
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\obj\Debug\netcoreapp2.1\TestProject_MrRaju.dll
+C:\Users\JGGG\source\repos\TestProject_MrRaju\TestProject_MrRaju\obj\Debug\netcoreapp2.1\TestProject_MrRaju.pdb

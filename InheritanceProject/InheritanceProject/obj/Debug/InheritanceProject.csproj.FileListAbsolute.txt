@@ -1,0 +1,7 @@
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.exe.config
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.exe
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.pdb
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csprojAssemblyReference.cache
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.exe
+C:\Users\JGGG\source\repos\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.pdb
