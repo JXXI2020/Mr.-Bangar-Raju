@@ -14,3 +14,10 @@ C:\Users\jggonzalezg\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38R
 C:\Users\jggonzalezg\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.csproj.CoreCompileInputs.cache
 C:\Users\jggonzalezg\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.exe
 C:\Users\jggonzalezg\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.pdb
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\bin\Debug\38Raju_DemoThread.exe.config
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\bin\Debug\38Raju_DemoThread.exe
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\bin\Debug\38Raju_DemoThread.pdb
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.csprojAssemblyReference.cache
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.csproj.CoreCompileInputs.cache
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.exe
+C:\Users\JGGG\Source\Repos\JXXI2020\Mr.-Bangar-Raju\38Raju_DemoThread\38Raju_DemoThread\obj\Debug\38Raju_DemoThread.pdb
