@@ -26,8 +26,34 @@ namespace Collections
             //Not possible to delete items    We can delete items from the middle
 
             ArrayList al = new ArrayList();
+            Console.WriteLine(al.Capacity);
+            al.Add(100);
+            Console.WriteLine(al.Capacity);
+            al.Add(200); al.Add(300); al.Add(400);
+            Console.WriteLine(al.Capacity);
+            al.Add(500); // auto resize give 4 more
+            Console.WriteLine(al.Capacity);
 
+            foreach (object obj in al)
+                Console.Write(obj + " ");
+            Console.WriteLine();
 
+            // insert an itme
+            al.Insert(3, 350);
+            foreach (object obj in al)
+                Console.Write(obj + " ");
+            Console.WriteLine();
+
+            // remove an item
+            al.Remove(200); // by value
+            al.RemoveAt(2); // by index
+            foreach (object obj in al)
+                Console.Write(obj + " ");
+
+            Console.ReadLine();
+
+            
+            
 
         }
     }

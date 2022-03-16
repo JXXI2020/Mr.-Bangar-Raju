@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JGGG\\source\\repos\\Collections\\Collections\\Collections.csproj",
+      "projectUniqueName": "C:\\Users\\JGGG\\source\\repos\\JXXI2020\\Mr.-Bangar-Raju\\Collections\\Collections\\Collections.csproj",
       "projectName": "Collections",
-      "projectPath": "C:\\Users\\JGGG\\source\\repos\\Collections\\Collections\\Collections.csproj",
+      "projectPath": "C:\\Users\\JGGG\\source\\repos\\JXXI2020\\Mr.-Bangar-Raju\\Collections\\Collections\\Collections.csproj",
       "packagesPath": "C:\\Users\\JGGG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JGGG\\source\\repos\\Collections\\Collections\\obj\\",
+      "outputPath": "C:\\Users\\JGGG\\source\\repos\\JXXI2020\\Mr.-Bangar-Raju\\Collections\\Collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
